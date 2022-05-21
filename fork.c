@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 {
     if(argc!=4)
     {
-        printf("2 sayı ve .txt uzantı ismini girmelisin");
+        printf("2 sayı ve .txt uzantı ismini girmelisiniz");
         exit(1);
     }
 
